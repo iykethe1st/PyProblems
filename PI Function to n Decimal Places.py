@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 #import multp-precision module
 from mpmath import mp
 #define PI function
@@ -25,11 +19,3 @@ def pi_func():
         else:
             print(mp.pi)
             continue
-        
-
-
-# In[ ]:
-
-
-
-
